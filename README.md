@@ -30,6 +30,8 @@ This repository documents my ongoing learning journey through various online cou
 - [Functions, Tools and Agents with LangChain — DeepLearning.AI](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 - [AI Agents in LangGraph — DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 
+### Quantization
+- [Quantization Fundamentals with Hugging Face — DeepLearning.AI](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 
 (*This list will continue to grow as I complete more studies.*)
 
