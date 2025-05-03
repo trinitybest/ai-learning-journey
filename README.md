@@ -16,15 +16,15 @@ This repository documents my ongoing learning journey through various online cou
 
 ## 📚 Courses Taken
 
-### Specializations
+### Natural Language Processing
 - [Natural Language Processing Specialization — DeepLearning.AI, Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
-### Courses
+### Large Language Models
 - [Generative AI with Large Language Models — DeepLearning.AI, Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
-  
-### Short Courses
 - [Open Source Models with Hugging Face — DeepLearning.AI](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 - [Prompt Engineering for Developers — DeepLearning.AI & OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  
+### LangChain
 - [LangChain for LLM Application Development — DeepLearning.AI, Coursera](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 - [LangChain: Chat with Your Data — DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 - [Functions, Tools and Agents with LangChain — DeepLearning.AI](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
