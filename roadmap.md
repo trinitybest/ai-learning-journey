@@ -31,7 +31,7 @@ A milestone-based timeline tracking key goals in my AI learning journey.
 - ✅ Learn:
   - "Quantization Fundamentals with Hugging Face" – DeepLearning.AI
 - ✅ Read:
-
+  - [Advanced RAG on Hugging Face documentation using LangChain](https://huggingface.co/learn/cookbook/en/advanced_rag)
 
 
 
