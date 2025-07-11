@@ -34,5 +34,11 @@ A milestone-based timeline tracking key goals in my AI learning journey.
   - [Advanced RAG on Hugging Face documentation using LangChain](https://huggingface.co/learn/cookbook/en/advanced_rag)
   - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
+## 🕐 July 2025
+- ✅ Learn:
+  - A
+- ✅ Read:
+  - B
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 
