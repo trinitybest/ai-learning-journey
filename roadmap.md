@@ -39,6 +39,6 @@ A milestone-based timeline tracking key goals in my AI learning journey.
   - A
 - ✅ Read:
   - B
-  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
 
 
